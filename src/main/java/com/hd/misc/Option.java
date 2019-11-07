@@ -7,6 +7,7 @@ package com.hd.misc;
 public class Option {
 
     private String desc;
+
     private Object value;
 
     public Option() {
